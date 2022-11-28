@@ -1,0 +1,2 @@
+cd ~/Lab2N/driver
+sudo insmod driver.ko

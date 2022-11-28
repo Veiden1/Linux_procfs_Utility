@@ -1,0 +1,4 @@
+cd ~/Lab2N/driver
+make clean
+cd ..
+rm usermod 2>/dev/null
